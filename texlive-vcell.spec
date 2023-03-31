@@ -1,6 +1,6 @@
 Name:		texlive-vcell
 Version:	59039
-Release:	1
+Release:	2
 Summary:	Vertical alignment of content inside table cells
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vcell

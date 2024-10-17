@@ -3,7 +3,7 @@ Version:	59039
 Release:	2
 Summary:	Vertical alignment of content inside table cells
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/vcell
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/vcell
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/vcell.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/vcell.doc.r%{version}.tar.xz
